@@ -25,22 +25,7 @@ luac.out
 *.def
 *.exp
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylibirdo
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hexf of8rnr83nd
-
-Jdwoevid
-Segurity browser
+#Segurity browser
 ams_feed_card_ultimate_default:feed_card_ultimate,
 av_default_vpn:vpn_default,
 av_onboarding:onboarding_default,
