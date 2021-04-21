@@ -13,8 +13,8 @@ luac.out
 *.obj
 *.elf
 
-# Precompiled Headers
-*.gch
+# Cabeçalhos pré-compilados
+* .gch
 *.pch
 
 # Libraries
@@ -27,11 +27,14 @@ luac.out
 
 #
 
-Segurity browser
-ams_feed_card_ultimate_default:feed_card_ultimate,
+
+
+
+ams_feed_card_ultimate_default: feed_card_ultimate,
 av_default_vpn:vpn_default,
 av_onboarding:onboarding_default,
 av_default:default
+
 
 CampaignBurgerSampling:On
 ad_consent_copy:variant_4
